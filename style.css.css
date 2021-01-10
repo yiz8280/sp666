@@ -34,7 +34,7 @@ h1 {
 
 /* 主視覺 */
 .mainvisual {
-    background-color: #94a4b3;
+    background-color: #fffdd0;
     border-bottom: solid 3px #000000;
 }
 .mainvisual img {
@@ -47,6 +47,7 @@ h1 {
 /* article */
 article {
     padding: 32px 16px;
+      text-align: center;
 }
 
 /* 背景色・文字色 */
