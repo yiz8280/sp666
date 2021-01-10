@@ -47,7 +47,7 @@ h1 {
 /* article */
 article {
     padding: 32px 16px;
-      text-align: center;
+      text-align:left;
 }
 
 /* 背景色・文字色 */
