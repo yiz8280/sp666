@@ -10,7 +10,10 @@ h1 {
     color: #6b3008;
     text-align: center;
 }
-
+article {
+    padding: 32px 16px;
+      text-align: center;
+}
 /* 選單 */
 .navigation ul {
     background-color: #000000;
